@@ -8,3 +8,6 @@ runtimes/**
 publish.cmd
 packages/
 .vs/
+/Properties/PublishProfiles/botcodex - FTP.pubxml
+/Properties/PublishProfiles/botcodex - ReadOnly - FTP.pubxml
+/Properties/PublishProfiles/botcodex - Web Deploy.pubxml
